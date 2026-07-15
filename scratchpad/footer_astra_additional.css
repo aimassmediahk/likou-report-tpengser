@@ -3,17 +3,18 @@
    Paste into: Appearance > Customize > Additional CSS
    (or Astra > Customize > Additional CSS)
    Astra breakpoints: tablet <=921px, mobile <=544px
+   Scoped strictly to .site-primary-footer-wrap so the
+   above/below footer wraps (CTA, logo, copyright) are untouched.
    ============================================================ */
 
-/* Tablet: 6 columns -> 3 columns (2 rows of 3) */
+/* Tablet: primary footer 6 columns -> 3 columns (2 rows of 3) */
 @media (max-width: 921px) {
-  .site-primary-footer-wrap[data-section="section-primary-footer-builder"] .ast-builder-grid-row,
-  .ast-builder-grid-row-container.ast-builder-grid-row-tablet-6-equal .ast-builder-grid-row {
+  .site-primary-footer-wrap[data-section="section-primary-footer-builder"] .ast-builder-grid-row {
     grid-template-columns: repeat(3, 1fr) !important;
     row-gap: 32px !important;
     column-gap: 24px !important;
   }
-  /* Prevent mid-word breaks (e.g. MANAGEMEN T RESEARCH) */
+  /* Prevent mid-word breaks (e.g. MANAGEMEN T RESEARCH) — primary footer only */
   .site-primary-footer-wrap .ast-header-html,
   .site-primary-footer-wrap .ast-builder-html-element,
   .site-primary-footer-wrap p,
@@ -26,10 +27,9 @@
   }
 }
 
-/* Mobile: 2 columns */
+/* Mobile: primary footer -> 2 columns (was defaulting to 1) */
 @media (max-width: 544px) {
-  .site-primary-footer-wrap[data-section="section-primary-footer-builder"] .ast-builder-grid-row,
-  .ast-builder-grid-row-container.ast-builder-grid-row-mobile-full .ast-builder-grid-row {
+  .site-primary-footer-wrap[data-section="section-primary-footer-builder"] .ast-builder-grid-row {
     grid-template-columns: repeat(2, 1fr) !important;
     row-gap: 24px !important;
   }
