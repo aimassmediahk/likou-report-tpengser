@@ -1,0 +1,36 @@
+/* ============================================================
+   Footer tablet & mobile grid fix — Mansfield Consulting
+   Paste into: Appearance > Customize > Additional CSS
+   (or Astra > Customize > Additional CSS)
+   Astra breakpoints: tablet <=921px, mobile <=544px
+   ============================================================ */
+
+/* Tablet: 6 columns -> 3 columns (2 rows of 3) */
+@media (max-width: 921px) {
+  .site-primary-footer-wrap[data-section="section-primary-footer-builder"] .ast-builder-grid-row,
+  .ast-builder-grid-row-container.ast-builder-grid-row-tablet-6-equal .ast-builder-grid-row {
+    grid-template-columns: repeat(3, 1fr) !important;
+    row-gap: 32px !important;
+    column-gap: 24px !important;
+  }
+  /* Prevent mid-word breaks (e.g. MANAGEMEN T RESEARCH) */
+  .site-primary-footer-wrap .ast-header-html,
+  .site-primary-footer-wrap .ast-builder-html-element,
+  .site-primary-footer-wrap p,
+  .site-primary-footer-wrap span,
+  .site-primary-footer-wrap strong {
+    word-break: normal !important;
+    overflow-wrap: normal !important;
+    hyphens: none !important;
+    line-height: 1.7 !important;
+  }
+}
+
+/* Mobile: 2 columns */
+@media (max-width: 544px) {
+  .site-primary-footer-wrap[data-section="section-primary-footer-builder"] .ast-builder-grid-row,
+  .ast-builder-grid-row-container.ast-builder-grid-row-mobile-full .ast-builder-grid-row {
+    grid-template-columns: repeat(2, 1fr) !important;
+    row-gap: 24px !important;
+  }
+}

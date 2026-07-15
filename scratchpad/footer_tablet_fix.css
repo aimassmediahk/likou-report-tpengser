@@ -1,0 +1,37 @@
+/* ================================================
+   Footer tablet grid fix — Mansfield Consulting
+   Match source tablet layout, clean 3-col grid,
+   prevent word-break, adequate spacing.
+   ================================================ */
+@media (max-width: 1024px) {
+  /* Primary footer: 6 cols -> 3 cols on tablet (2 rows of 3) */
+  .site-primary-footer-wrap .ast-builder-footer-grid-columns.site-primary-footer-inner-wrap {
+    display: grid !important;
+    grid-template-columns: repeat(3, 1fr) !important;
+    row-gap: 32px !important;
+    column-gap: 24px !important;
+  }
+  /* Prevent word-break mid-word */
+  .site-primary-footer-wrap .ast-header-html,
+  .site-primary-footer-wrap .ast-builder-html-element,
+  .site-primary-footer-wrap p,
+  .site-primary-footer-wrap span,
+  .site-primary-footer-wrap strong {
+    word-break: normal !important;
+    overflow-wrap: normal !important;
+    hyphens: none !important;
+    line-height: 1.7 !important;
+  }
+  /* Above footer (CTA): stack vertically comfortably */
+  .site-above-footer-wrap .ast-builder-footer-grid-columns {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+}
+@media (max-width: 767px) {
+  /* Mobile: 2 columns */
+  .site-primary-footer-wrap .ast-builder-footer-grid-columns.site-primary-footer-inner-wrap {
+    grid-template-columns: repeat(2, 1fr) !important;
+    row-gap: 24px !important;
+  }
+}
