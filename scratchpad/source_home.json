@@ -1,0 +1,371 @@
+{
+  "sections": [
+    {
+      "h2": "How We Help You Succeed",
+      "items": [
+        {
+          "h": "Market Research & Insights",
+          "icon": "chart-pie"
+        },
+        {
+          "h": "Strategic Consulting & Analytics",
+          "icon": "chart-pie"
+        },
+        {
+          "h": "Corporate Training & Talent Development",
+          "icon": "users"
+        }
+      ]
+    },
+    {
+      "h2": "Research Services",
+      "items": [
+        {
+          "h": "Market Research & Insights",
+          "icon": "chart-pie"
+        },
+        {
+          "h": "Strategic Consulting & Analytics",
+          "icon": "chart-pie"
+        },
+        {
+          "h": "Corporate Training & Talent Development",
+          "icon": "users"
+        },
+        {
+          "h": "Leadership & Management Development",
+          "icon": "crown"
+        },
+        {
+          "h": "Service Excellence & Retail Training",
+          "icon": "handshake"
+        },
+        {
+          "h": "Communication & Presentation Skills",
+          "icon": "message-circle"
+        },
+        {
+          "h": "Experiential Leadership Transformation",
+          "icon": "refresh-cw"
+        },
+        {
+          "h": "RESEARCH METHODS",
+          "icon": "circle-check-big"
+        },
+        {
+          "h": "HR RESEARCH",
+          "icon": "circle-check-big"
+        },
+        {
+          "h": "MANAGEMENT RESEARCH",
+          "icon": "circle-check-big"
+        },
+        {
+          "h": "MARKETING RESEARCH",
+          "icon": "circle-check-big"
+        },
+        {
+          "h": "CONSULTATION",
+          "icon": "circle-check-big"
+        },
+        {
+          "h": "TRAINING",
+          "icon": "circle-check-big"
+        },
+        {
+          "h": "COMPANY",
+          "icon": "circle-check-big"
+        }
+      ]
+    },
+    {
+      "h2": "Corporate Training Services",
+      "items": [
+        {
+          "h": "Leadership & Management Development",
+          "icon": "crown"
+        },
+        {
+          "h": "Service Excellence & Retail Training",
+          "icon": "handshake"
+        },
+        {
+          "h": "Communication & Presentation Skills",
+          "icon": "message-circle"
+        },
+        {
+          "h": "Experiential Leadership Transformation",
+          "icon": "refresh-cw"
+        }
+      ]
+    },
+    {
+      "h2": "Our Research Toolbox",
+      "items": [
+        {
+          "h": "Market Research & Insights",
+          "icon": "chart-pie"
+        },
+        {
+          "h": "Strategic Consulting & Analytics",
+          "icon": "chart-pie"
+        },
+        {
+          "h": "Corporate Training & Talent Development",
+          "icon": "users"
+        },
+        {
+          "h": "Leadership & Management Development",
+          "icon": "crown"
+        },
+        {
+          "h": "Service Excellence & Retail Training",
+          "icon": "handshake"
+        },
+        {
+          "h": "Communication & Presentation Skills",
+          "icon": "message-circle"
+        },
+        {
+          "h": "Experiential Leadership Transformation",
+          "icon": "refresh-cw"
+        },
+        {
+          "h": "RESEARCH METHODS",
+          "icon": "circle-check-big"
+        },
+        {
+          "h": "HR RESEARCH",
+          "icon": "circle-check-big"
+        },
+        {
+          "h": "MANAGEMENT RESEARCH",
+          "icon": "circle-check-big"
+        },
+        {
+          "h": "MARKETING RESEARCH",
+          "icon": "circle-check-big"
+        },
+        {
+          "h": "CONSULTATION",
+          "icon": "circle-check-big"
+        },
+        {
+          "h": "TRAINING",
+          "icon": "circle-check-big"
+        },
+        {
+          "h": "COMPANY",
+          "icon": "circle-check-big"
+        }
+      ]
+    },
+    {
+      "h2": "Ready to Turn Insights into Action?",
+      "items": [
+        {
+          "h": "Market Research & Insights",
+          "icon": "chart-pie"
+        },
+        {
+          "h": "Strategic Consulting & Analytics",
+          "icon": "chart-pie"
+        },
+        {
+          "h": "Corporate Training & Talent Development",
+          "icon": "users"
+        },
+        {
+          "h": "Leadership & Management Development",
+          "icon": "crown"
+        },
+        {
+          "h": "Service Excellence & Retail Training",
+          "icon": "handshake"
+        },
+        {
+          "h": "Communication & Presentation Skills",
+          "icon": "message-circle"
+        },
+        {
+          "h": "Experiential Leadership Transformation",
+          "icon": "refresh-cw"
+        },
+        {
+          "h": "RESEARCH METHODS",
+          "icon": "circle-check-big"
+        },
+        {
+          "h": "HR RESEARCH",
+          "icon": "circle-check-big"
+        },
+        {
+          "h": "MANAGEMENT RESEARCH",
+          "icon": "circle-check-big"
+        },
+        {
+          "h": "MARKETING RESEARCH",
+          "icon": "circle-check-big"
+        },
+        {
+          "h": "CONSULTATION",
+          "icon": "circle-check-big"
+        },
+        {
+          "h": "TRAINING",
+          "icon": "circle-check-big"
+        },
+        {
+          "h": "COMPANY",
+          "icon": "circle-check-big"
+        }
+      ]
+    }
+  ],
+  "allIcons": [
+    {
+      "name": "globe",
+      "context": "Data-Driven Insights & Talent Development"
+    },
+    {
+      "name": "circle-check-big",
+      "context": "Data-Driven Insights & Talent Development"
+    },
+    {
+      "name": "circle-check-big",
+      "context": "Data-Driven Insights & Talent Development"
+    },
+    {
+      "name": "circle-check-big",
+      "context": "Data-Driven Insights & Talent Development"
+    },
+    {
+      "name": "trending-up",
+      "context": "Data-Driven Insights & Talent Development"
+    },
+    {
+      "name": "chart-pie",
+      "context": "Strategic Consulting & Analytics"
+    },
+    {
+      "name": "users",
+      "context": "Corporate Training & Talent Development"
+    },
+    {
+      "name": "clipboard-list",
+      "context": "Research Services"
+    },
+    {
+      "name": "message-circle",
+      "context": "Research Services"
+    },
+    {
+      "name": "message-square",
+      "context": "Research Services"
+    },
+    {
+      "name": "shopping-bag",
+      "context": "Research Services"
+    },
+    {
+      "name": "users",
+      "context": "Research Services"
+    },
+    {
+      "name": "heart-handshake",
+      "context": "Staff Engagement Survey"
+    },
+    {
+      "name": "users-round",
+      "context": "Staff Focus Groups & Interviews"
+    },
+    {
+      "name": "flag",
+      "context": "Competitive & Industry Research"
+    },
+    {
+      "name": "target",
+      "context": "Market Sizing & Forecasting"
+    },
+    {
+      "name": "flask-conical",
+      "context": "Product & Innovation Research"
+    },
+    {
+      "name": "gavel",
+      "context": "Advertising Claim Research"
+    },
+    {
+      "name": "target",
+      "context": "Brand & Advertising Research"
+    },
+    {
+      "name": "circle-user",
+      "context": "Customer & User Research"
+    },
+    {
+      "name": "tags",
+      "context": "Pricing & Willingness-to-Pay"
+    },
+    {
+      "name": "package",
+      "context": "Product Placement Test"
+    },
+    {
+      "name": "calendar-check",
+      "context": "Event Tracking"
+    },
+    {
+      "name": "graduation-cap",
+      "context": "Academic Research Support"
+    },
+    {
+      "name": "crown",
+      "context": "Leadership & Management Development"
+    },
+    {
+      "name": "handshake",
+      "context": "Service Excellence & Retail Training"
+    },
+    {
+      "name": "message-circle",
+      "context": "Communication & Presentation Skills"
+    },
+    {
+      "name": "refresh-cw",
+      "context": "Experiential Leadership Transformation"
+    },
+    {
+      "name": "laptop",
+      "context": "Online Surveys"
+    },
+    {
+      "name": "map-pin",
+      "context": "Street Intercept"
+    },
+    {
+      "name": "eye",
+      "context": "Computer Vision"
+    },
+    {
+      "name": "brain-circuit",
+      "context": "AI-Assisted Analysis"
+    },
+    {
+      "name": "users",
+      "context": "Focus Group"
+    },
+    {
+      "name": "message-circle",
+      "context": "In-Depth Interview"
+    },
+    {
+      "name": "send",
+      "context": "Ready to Turn Insights into Action?"
+    },
+    {
+      "name": "message-circle",
+      "context": "Data-Driven Insights & Talent Development"
+    }
+  ]
+}

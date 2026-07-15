@@ -1,0 +1,9 @@
+scratchpad/node_modules/
+scratchpad/site/
+scratchpad/__pycache__/
+scratchpad/*.log
+scratchpad/home_*.json
+scratchpad/home_rendered.html
+scratchpad/package-lock.json
+scratchpad/svgs_extracted.json
+scratchpad/wp.py

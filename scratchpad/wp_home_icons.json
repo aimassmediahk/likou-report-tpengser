@@ -1,0 +1,491 @@
+[
+  {
+    "kind": "heading",
+    "text": "Data-Driven <span style=\"color: #21684a\">Insights</span> &  <span style=\"color: #21684a\">Talent Development</span>",
+    "id": "809ac5b",
+    "level": "h1"
+  },
+  {
+    "kind": "heading",
+    "text": "How We Help You Succeed",
+    "id": "c152c97",
+    "level": "h1"
+  },
+  {
+    "kind": "icon-box",
+    "id": "db2e912",
+    "title": "Market Research & Insights",
+    "icon_value": "fas fa-search",
+    "icon_library": "fa-solid",
+    "section_headings": []
+  },
+  {
+    "kind": "icon-box",
+    "id": "1072bb8",
+    "title": "Strategic Consulting & Analytics",
+    "icon_value": "fas fa-search",
+    "icon_library": "fa-solid",
+    "section_headings": []
+  },
+  {
+    "kind": "icon-box",
+    "id": "9eea484",
+    "title": "Corporate Training & Talent Development",
+    "icon_value": {
+      "url": "http://81.hkwordpress.com/wp-content/uploads/2026/07/lucide-users.svg",
+      "id": 1635
+    },
+    "icon_library": "svg",
+    "section_headings": []
+  },
+  {
+    "kind": "heading",
+    "text": "Research Services",
+    "id": "d98d7d2",
+    "level": "h1"
+  },
+  {
+    "kind": "heading",
+    "text": "RESEARCH METHODOLOGY",
+    "id": "7c13155",
+    "level": "h1"
+  },
+  {
+    "kind": "icon-box",
+    "id": "8503255",
+    "title": "Surveys",
+    "icon_value": "fas fa-search",
+    "icon_library": "fa-solid",
+    "section_headings": []
+  },
+  {
+    "kind": "icon-box",
+    "id": "355ad93",
+    "title": "In-Depth Interviews (IDI)",
+    "icon_value": "fas fa-search",
+    "icon_library": "fa-solid",
+    "section_headings": []
+  },
+  {
+    "kind": "icon-box",
+    "id": "5940f0b",
+    "title": "Focus Groups",
+    "icon_value": "fas fa-search",
+    "icon_library": "fa-solid",
+    "section_headings": []
+  },
+  {
+    "kind": "icon-box",
+    "id": "53f8c3e",
+    "title": "Mystery Shopping",
+    "icon_value": "fas fa-search",
+    "icon_library": "fa-solid",
+    "section_headings": []
+  },
+  {
+    "kind": "icon-box",
+    "id": "54ccd46",
+    "title": "Traffic Count",
+    "icon_value": "fas fa-search",
+    "icon_library": "fa-solid",
+    "section_headings": []
+  },
+  {
+    "kind": "heading",
+    "text": "RESEARCH APPLICATIONS",
+    "id": "407e57b",
+    "level": "h1"
+  },
+  {
+    "kind": "icon-box",
+    "id": "7562c40",
+    "title": "Staff Engagement Survey",
+    "icon_value": "fas fa-search",
+    "icon_library": "fa-solid",
+    "section_headings": []
+  },
+  {
+    "kind": "icon-box",
+    "id": "33c1d3d",
+    "title": "Staff Focus Groups & Interviews",
+    "icon_value": "fas fa-search",
+    "icon_library": "fa-solid",
+    "section_headings": []
+  },
+  {
+    "kind": "icon-box",
+    "id": "6189d01",
+    "title": "Competitive & Industry Research",
+    "icon_value": "fas fa-search",
+    "icon_library": "fa-solid",
+    "section_headings": []
+  },
+  {
+    "kind": "icon-box",
+    "id": "82debab",
+    "title": "Market Sizing & Forecasting",
+    "icon_value": "fas fa-search",
+    "icon_library": "fa-solid",
+    "section_headings": []
+  },
+  {
+    "kind": "icon-box",
+    "id": "1fadbc6",
+    "title": "Product & Innovation Research",
+    "icon_value": "fas fa-search",
+    "icon_library": "fa-solid",
+    "section_headings": []
+  },
+  {
+    "kind": "icon-box",
+    "id": "035e4f0",
+    "title": "Advertising Claim Research",
+    "icon_value": "fas fa-search",
+    "icon_library": "fa-solid",
+    "section_headings": []
+  },
+  {
+    "kind": "icon-box",
+    "id": "5331577",
+    "title": "Brand & Advertising Research",
+    "icon_value": "fas fa-search",
+    "icon_library": "fa-solid",
+    "section_headings": []
+  },
+  {
+    "kind": "icon-box",
+    "id": "a03540b",
+    "title": "Customer & User Research",
+    "icon_value": "fas fa-search",
+    "icon_library": "fa-solid",
+    "section_headings": []
+  },
+  {
+    "kind": "icon-box",
+    "id": "9779f5f",
+    "title": "Pricing & Willingness-to-Pay",
+    "icon_value": "fas fa-search",
+    "icon_library": "fa-solid",
+    "section_headings": []
+  },
+  {
+    "kind": "icon-box",
+    "id": "640cd91",
+    "title": "Product Placement Test",
+    "icon_value": "fas fa-search",
+    "icon_library": "fa-solid",
+    "section_headings": []
+  },
+  {
+    "kind": "icon-box",
+    "id": "20b992e",
+    "title": "Event Tracking",
+    "icon_value": "fas fa-search",
+    "icon_library": "fa-solid",
+    "section_headings": []
+  },
+  {
+    "kind": "icon-box",
+    "id": "29fed2d",
+    "title": "Academic Research Support",
+    "icon_value": "fas fa-search",
+    "icon_library": "fa-solid",
+    "section_headings": []
+  },
+  {
+    "kind": "heading",
+    "text": "Corporate Training Services",
+    "id": "a6b34ea",
+    "level": "h1"
+  },
+  {
+    "kind": "icon-box",
+    "id": "0633f9a",
+    "title": "Leadership & Management Development",
+    "icon_value": {
+      "url": "https://81.hkwordpress.com/wp-content/uploads/2026/07/lucide-scroll.svg",
+      "id": 1791
+    },
+    "icon_library": "svg",
+    "section_headings": []
+  },
+  {
+    "kind": "icon-list-item",
+    "id": "a3419de",
+    "text": "Sun Tzu Art of War: Leadership Series",
+    "icon_value": null,
+    "icon_library": null,
+    "section_headings": []
+  },
+  {
+    "kind": "icon-list-item",
+    "id": "a3419de",
+    "text": "Sun Tzu Art of War: Invincibility & Winning",
+    "icon_value": null,
+    "icon_library": null,
+    "section_headings": []
+  },
+  {
+    "kind": "icon-list-item",
+    "id": "a3419de",
+    "text": "Executive Coaching",
+    "icon_value": null,
+    "icon_library": null,
+    "section_headings": []
+  },
+  {
+    "kind": "icon-list-item",
+    "id": "a3419de",
+    "text": "Mastering the Art of Coaching",
+    "icon_value": null,
+    "icon_library": null,
+    "section_headings": []
+  },
+  {
+    "kind": "icon-list-item",
+    "id": "a3419de",
+    "text": "Gen Z Leadership: Bridging Generational Gaps",
+    "icon_value": null,
+    "icon_library": null,
+    "section_headings": []
+  },
+  {
+    "kind": "icon-list-item",
+    "id": "a3419de",
+    "text": "Design Thinking & Innovation",
+    "icon_value": null,
+    "icon_library": null,
+    "section_headings": []
+  },
+  {
+    "kind": "icon-list-item",
+    "id": "a3419de",
+    "text": "Communication Style Enhancement through DiSC",
+    "icon_value": null,
+    "icon_library": null,
+    "section_headings": []
+  },
+  {
+    "kind": "icon-box",
+    "id": "43cb238",
+    "title": "Service Excellence & Retail Training",
+    "icon_value": {
+      "url": "http://81.hkwordpress.com/wp-content/uploads/2026/07/lucide-handshake.svg",
+      "id": 1628
+    },
+    "icon_library": "svg",
+    "section_headings": []
+  },
+  {
+    "kind": "icon-list-item",
+    "id": "08a240c",
+    "text": "Service Standard Corporate Training",
+    "icon_value": null,
+    "icon_library": null,
+    "section_headings": []
+  },
+  {
+    "kind": "icon-list-item",
+    "id": "08a240c",
+    "text": "Retail Service Excellence Training",
+    "icon_value": null,
+    "icon_library": null,
+    "section_headings": []
+  },
+  {
+    "kind": "icon-list-item",
+    "id": "08a240c",
+    "text": "Mastering Complaint Handling & Difficult Customers",
+    "icon_value": null,
+    "icon_library": null,
+    "section_headings": []
+  },
+  {
+    "kind": "icon-list-item",
+    "id": "08a240c",
+    "text": "Lean 5S Workplace Organisation",
+    "icon_value": null,
+    "icon_library": null,
+    "section_headings": []
+  },
+  {
+    "kind": "icon-list-item",
+    "id": "08a240c",
+    "text": "Team Building Workshop",
+    "icon_value": null,
+    "icon_library": null,
+    "section_headings": []
+  },
+  {
+    "kind": "icon-list-item",
+    "id": "08a240c",
+    "text": "Building Team Culture with MBTI",
+    "icon_value": null,
+    "icon_library": null,
+    "section_headings": []
+  },
+  {
+    "kind": "icon-box",
+    "id": "51d3230",
+    "title": "Communication & Presentation Skills",
+    "icon_value": {
+      "url": "https://81.hkwordpress.com/wp-content/uploads/2026/07/lucide-scroll.svg",
+      "id": 1791
+    },
+    "icon_library": "svg",
+    "section_headings": []
+  },
+  {
+    "kind": "icon-list-item",
+    "id": "0ba426c",
+    "text": "Business English Meetings",
+    "icon_value": null,
+    "icon_library": null,
+    "section_headings": []
+  },
+  {
+    "kind": "icon-list-item",
+    "id": "0ba426c",
+    "text": "Business Negotiations",
+    "icon_value": null,
+    "icon_library": null,
+    "section_headings": []
+  },
+  {
+    "kind": "icon-list-item",
+    "id": "0ba426c",
+    "text": "Public Speaking",
+    "icon_value": null,
+    "icon_library": null,
+    "section_headings": []
+  },
+  {
+    "kind": "icon-list-item",
+    "id": "0ba426c",
+    "text": "Executive Communication Coaching",
+    "icon_value": null,
+    "icon_library": null,
+    "section_headings": []
+  },
+  {
+    "kind": "icon-list-item",
+    "id": "0ba426c",
+    "text": "Interview Excellence",
+    "icon_value": null,
+    "icon_library": null,
+    "section_headings": []
+  },
+  {
+    "kind": "icon-list-item",
+    "id": "0ba426c",
+    "text": "Professional Business Presentations",
+    "icon_value": null,
+    "icon_library": null,
+    "section_headings": []
+  },
+  {
+    "kind": "icon-box",
+    "id": "fd92b46",
+    "title": "Experiential Leadership Transformation",
+    "icon_value": {
+      "url": "http://81.hkwordpress.com/wp-content/uploads/2026/07/lucide-refresh-cw.svg",
+      "id": 1632
+    },
+    "icon_library": "svg",
+    "section_headings": []
+  },
+  {
+    "kind": "icon-list-item",
+    "id": "0cf3d89",
+    "text": "Breakthrough Leadership: Authentic Transformation",
+    "icon_value": null,
+    "icon_library": null,
+    "section_headings": []
+  },
+  {
+    "kind": "icon-list-item",
+    "id": "0cf3d89",
+    "text": "Leader as Coach: Coaching Skills for Managers",
+    "icon_value": null,
+    "icon_library": null,
+    "section_headings": []
+  },
+  {
+    "kind": "icon-list-item",
+    "id": "0cf3d89",
+    "text": "High-Performance Team Building",
+    "icon_value": null,
+    "icon_library": null,
+    "section_headings": []
+  },
+  {
+    "kind": "icon-list-item",
+    "id": "0cf3d89",
+    "text": "Strategic Thinking & Execution",
+    "icon_value": null,
+    "icon_library": null,
+    "section_headings": []
+  },
+  {
+    "kind": "icon-list-item",
+    "id": "0cf3d89",
+    "text": "Change Management & Resilience",
+    "icon_value": null,
+    "icon_library": null,
+    "section_headings": []
+  },
+  {
+    "kind": "heading",
+    "text": "Our Research Toolbox",
+    "id": "95aa009",
+    "level": "h1"
+  },
+  {
+    "kind": "icon-box",
+    "id": "ee0cf51",
+    "title": "Online Surveys",
+    "icon_value": "fas fa-search",
+    "icon_library": "fa-solid",
+    "section_headings": []
+  },
+  {
+    "kind": "icon-box",
+    "id": "b01f681",
+    "title": "Street Intercept",
+    "icon_value": "fas fa-search",
+    "icon_library": "fa-solid",
+    "section_headings": []
+  },
+  {
+    "kind": "icon-box",
+    "id": "9d6e88d",
+    "title": "Computer Vision",
+    "icon_value": "fas fa-search",
+    "icon_library": "fa-solid",
+    "section_headings": []
+  },
+  {
+    "kind": "icon-box",
+    "id": "64cfcc1",
+    "title": "AI-Assisted Analysis",
+    "icon_value": "fas fa-search",
+    "icon_library": "fa-solid",
+    "section_headings": []
+  },
+  {
+    "kind": "icon-box",
+    "id": "4009c94",
+    "title": "Focus Group",
+    "icon_value": "fas fa-search",
+    "icon_library": "fa-solid",
+    "section_headings": []
+  },
+  {
+    "kind": "icon-box",
+    "id": "97abc0d",
+    "title": "In-Depth Interview",
+    "icon_value": "fas fa-search",
+    "icon_library": "fa-solid",
+    "section_headings": []
+  }
+]
